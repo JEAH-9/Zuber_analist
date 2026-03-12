@@ -117,8 +117,8 @@ Se utilizó una **prueba t para muestras independientes** con un nivel de signif
 ## ▶️ Cómo ejecutar el proyecto
 
 ```bash
-git clone https://github.com/tu_usuario/nombre_proyecto.git
-cd nombre_proyecto
+git clone https://github.com/JEAH-9/Zuber_analist
+cd Zuber_analist
 pip install -r requirements.txt
 ```
 
